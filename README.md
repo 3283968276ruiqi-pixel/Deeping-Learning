@@ -1,2 +1,4 @@
 # Deeping-Learning
-Li Mu AI
+AI FOR EVERYONE吴恩达
+Machine learning 李宏毅
+Deep Learning 李沐
